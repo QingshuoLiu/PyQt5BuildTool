@@ -1,0 +1,2 @@
+# PyQt5BuildTool
+一个简单的用来生成py文件并可以打包的PyQt5工具
